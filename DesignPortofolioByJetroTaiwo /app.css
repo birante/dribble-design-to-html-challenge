@@ -1,0 +1,39 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.fa {
+  color: black !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bg-yellow {
+  background-color: #F6C844;
+}
+
+.wrapper {
+  background-color: #F6C844;
+  color: black;
+}
+
+.btn-black {
+  color: white;
+  background-color: black;
+}
+
+.btn-simple {
+  color: black;
+  border: 1px solid black;
+  background-color: transparent;
+}
+
+.nav-link {
+  color: black;
+}
+
+.separator hr {
+  width: 50%;
+}
